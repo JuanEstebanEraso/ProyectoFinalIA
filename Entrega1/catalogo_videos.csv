@@ -1,0 +1,19 @@
+file,path,video_id,subject,actividad,vista,repeticion,fps,frames,dur_s,width,height,size_mb,rel_dir
+Video 1.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 1.mp4,1,,,,,29.93,409,13.67,480,848,2.06,.
+Video 2.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 2.mp4,2,,,,,29.94,479,16.0,480,848,2.31,.
+Video 3.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 3.mp4,3,,,,,29.91,343,11.47,480,848,1.69,.
+Video 4.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 4.mp4,4,,,,,29.94,467,15.6,480,848,2.25,.
+Video 5.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 5.mp4,5,,,,,29.94,468,15.63,480,848,2.32,.
+Video 6.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 6.mp4,6,,,,,29.93,382,12.76,480,848,1.91,.
+Video 7.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 7.mp4,7,,,,,29.94,488,16.3,480,848,2.38,.
+Video 8.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 8.mp4,8,,,,,29.92,368,12.3,480,848,1.81,.
+Video 9.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 9.mp4,9,,,,,29.93,423,14.13,480,848,2.06,.
+Video 10.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 10.mp4,10,,,,,29.92,391,13.07,480,848,1.9,.
+Video 11.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 11.mp4,11,,,,,29.9,551,18.43,480,848,2.74,.
+Video 12.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 12.mp4,12,,,,,29.96,685,22.86,480,848,3.36,.
+Video 13.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 13.mp4,13,,,,,29.98,393,13.11,480,848,1.9,.
+Video 14.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 14.mp4,14,,,,,59.94,905,15.1,464,832,2.23,.
+Video 15.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 15.mp4,15,,,,,59.94,896,14.95,464,832,2.15,.
+Video 16.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 16.mp4,16,,,,,59.94,1029,17.17,464,832,2.53,.
+Video 17.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 17.mp4,17,,,,,59.94,900,15.02,464,832,2.2,.
+Video 18.mp4,/content/drive/MyDrive/ProyectoIA/Videos/Video 18.mp4,18,,,,,59.94,805,13.43,464,832,1.98,.
