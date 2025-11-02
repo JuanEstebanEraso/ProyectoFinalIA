@@ -1,0 +1,10 @@
+start_s,end_s,label,note
+0.0,1.81,sentado,inicio sentado
+1.81,2.57,transicion,levantarse
+2.57,3.02,de_pie,breve de_pie antes de caminar
+3.02,7.55,caminando,caminar hacia la cámara
+7.55,8.3,transicion,giro 1
+8.3,12.83,caminando,caminar de regreso a la silla
+12.83,13.59,transicion,giro 2
+13.59,14.35,transicion,sentarse
+14.35,15.1,sentado,fin sentado
