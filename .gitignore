@@ -1,0 +1,239 @@
+# ============================================================================
+# Entornos Virtuales de Python
+# ============================================================================
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+.conda/
+
+# ============================================================================
+# Configuraciones de Editores
+# ============================================================================
+
+# VS Code
+.vscode/
+*.code-workspace
+.vscode-test
+
+# Cursor
+.cursor/
+.cursorrules
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.vim/
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ============================================================================
+# Python
+# ============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# ============================================================================
+# Sistema Operativo
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ============================================================================
+# Archivos Temporales y Logs
+# ============================================================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+*.orig
+
+# ============================================================================
+# Archivos de Datos Grandes (opcional - descomentar si no quieres subirlos)
+# ============================================================================
+# *.mp4
+# *.avi
+# *.mov
+# *.mkv
+# *.pkl
+# *.h5
+# *.hdf5
+
+# ============================================================================
+# Archivos Específicos del Proyecto
+# ============================================================================
+# Cache de landmarks (si son muy grandes)
+# cache_landmarks/
+# *.npz
+
+# Archivos de Google Colab
+*.ipynb_checkpoints
+
+# ============================================================================
+# Secrets y Variables de Entorno
+# ============================================================================
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets.yaml
+config.yaml
+.secrets
+
+# ============================================================================
+# Archivos de Backup
+# ============================================================================
+*.backup
+*.old
+*~
+
