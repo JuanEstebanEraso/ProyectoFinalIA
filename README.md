@@ -1,3 +1,4 @@
+Link video: https://youtu.be/MCoIgzuodPw 
 # Sistema de Análisis de Movimiento Humano
 
 **Estado del Proyecto**: Activo
